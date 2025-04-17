@@ -70,6 +70,15 @@ header h1 {
   color: #0ff;
   font-size: 1.5em;
   margin-bottom: 10px;
+  .card h2 a {
+  color: #0ff;
+  text-decoration: none;
+}
+
+.card h2 a:hover {
+  text-decoration: underline;
+}
+
 }
 
 .card p {
